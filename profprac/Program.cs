@@ -11,6 +11,21 @@ namespace profprac
         static void Main(string[] args)
         {
             ///aaaaaaaaaa
+            //Hello World goes here
+            Console.WriteLine("");
+
+            //If statement
+            if (true)
+            {
+
+            }
+
+            //Put a for loop here....
+            for (int i = 0;)
+            {
+
+            }
+
         }
     }
 }
