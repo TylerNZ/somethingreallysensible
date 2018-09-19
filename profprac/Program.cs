@@ -28,7 +28,7 @@ namespace profprac
 
             }
             //adding extra stuff
-            for (int i = 0; i < length; i++)
+            for (int i = 1; i < length; i++)
             {
 
             }
