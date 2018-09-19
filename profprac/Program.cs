@@ -19,13 +19,11 @@ namespace profprac
             {
 
             }
-
-            //Put a for loop here....
-            for (int i = 0;)
+            //Put a for loop here....       
+            for (int i = 0; i < length; i++)
             {
 
             }
-
         }
     }
 }
