@@ -22,6 +22,14 @@ namespace profprac
             //Put a for loop here....       
             for (int i = 0; i < length; i++)
             {
+                Console.Write("Brandonavin");
+                Console.ReadLine();
+                int zero = int.Parse(Console.ReadLine());
+
+            }
+            //adding extra stuff
+            for (int i = 0; i < length; i++)
+            {
 
             }
         }
